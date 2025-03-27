@@ -7,3 +7,5 @@ The project focuses on using the Swin Transformer, a state-of-the-art deep learn
 Tech Stack: 
 <br>
 PyTorch , Vision Transformer, CNNs, PIL , Flask , MERN, FastAPIs
+
+testing
